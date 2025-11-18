@@ -9,3 +9,5 @@ cache/
 .vagrant/
 .venv/
 cache/
+cache/
+outputs/
