@@ -1,3 +1,6 @@
+# I recommend cloning the official kubespray-offline and following the guide, instead of cloning this project directly.
+
+
 # Kubespray offline file generator scripts
 
 
