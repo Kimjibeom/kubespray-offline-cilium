@@ -1,5 +1,8 @@
 ## I recommend cloning the official kubespray-offline and following the guide, instead of cloning this project directly.
 
+# Guide
+[한국어 가이드 문서](https://github.com/Kimjibeom/kubespray-offline-cilium/tree/main/guide_kor)
+
 
 
 
