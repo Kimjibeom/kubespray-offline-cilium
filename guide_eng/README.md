@@ -7,7 +7,7 @@ This guide was tested and written based on the following virtual environment:
 - Kubespray Version: 2.29.0
 - Kubespray-offline Version: 2.29.0-0
 
-### Hardware Specifications
+Hardware Specifications
 
 | Role | Test Specs (Used in Guide) | Recommended Specs (Production) |
 
