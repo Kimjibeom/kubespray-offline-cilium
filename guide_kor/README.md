@@ -2,7 +2,8 @@
 ## kubespray-offline을 이용한 폐쇄망 환경 클러스터 구축 (Cilium)
 
 
-###기존 kubespray-offline의 Cilium 배포 오류를 해결하고, 폐쇄망 환경 클러스터 구축 가이드
+### 기존 kubespray-offline의 Cilium 배포 오류를 해결하고, 폐쇄망 환경 클러스터 구축 가이드
+
 
 
 다음의 가상 환경을 기준으로 테스트 및 작성되었습니다.
@@ -17,29 +18,27 @@ Kubespray-offline 버전: 2.29.0-0
 
  
 
-역할
 
-본 가이드 테스트 사양
+### 본 가이드 테스트 사양
 
-권장 사양 (운영용)
 
 Bastion
 
 8 vCPU, 4GB RAM, 150GB Disk
 
-4 vCPU, 8GB RAM, 100GB Disk
+
 
 Control Plane
 
 8 vCPU, 4GB RAM, 50GB Disk
 
-4+ vCPU, 16GB+ RAM, 80GB Disk
+
 
 Worker
 
 8 vCPU, 4GB RAM, 50GB Disk
 
-4+ vCPU, 16GB+ RAM, 80GB+ Disk
+
 
 [중요] 환경 참고 사항:
 
