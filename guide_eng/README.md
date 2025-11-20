@@ -1,13 +1,13 @@
 ---
 
-This guide was tested and written based on the following virtual environment:
+### This guide was tested and written based on the following virtual environment:
 
 - Virtualization Platform: VMware
 - Operating System (OS): Rocky Linux 9.x (Identical on all nodes)
 - Kubespray Version: 2.29.0
 - Kubespray-offline Version: 2.29.0-0
 
-Hardware Specifications
+### Hardware Specifications
 
 | Role | Test Specs (Used in Guide) | Recommended Specs (Production) |
 
